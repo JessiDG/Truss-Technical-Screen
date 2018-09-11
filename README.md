@@ -1,3 +1,7 @@
+
+To run this code, download the package and open it in the IDE of your choice that is configured to run Python 3+. I used PyCharm, but the code is IDE-agnostic, of course.
+
+------------------------------------------------------------------------------------------
 _This is one of the steps in the Truss interview process. If you've
 stumbled upon this repository and are interested in a career with
 Truss, [check out our jobs page](https://truss.works/jobs)._
